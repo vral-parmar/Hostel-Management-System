@@ -45,7 +45,7 @@
 </head>
 <body class="bg-primary">
     <div class="login-form col-md-10 col-sm-6 col-xs-10 container" style="padding-top:%;">
-        <form id="faculty_login" action="" method="post" class="user" style="border-radius: 8px;">
+        <form id="Login" action="" method="post" class="user" style="border-radius: 8px;">
             <div class="container">
                 <div class="">
                    <h3 class="text-center">Login</h3>
